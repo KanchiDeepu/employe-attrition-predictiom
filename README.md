@@ -1,2 +1,2 @@
-# employe-attrition-predictiom
+# employe-attrition-prediction
 Employee Attrition Prediction using Node.js, MongoDB &amp; Frontend Dashboard
